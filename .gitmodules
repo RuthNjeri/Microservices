@@ -1,3 +1,6 @@
 [submodule "MiniDemo"]
 	path = MiniDemo
 	url = https://github.com/RuthNjeri/MiniDemo
+[submodule "Sales_Tracking_Microservice"]
+	path = Sales_Tracking_Microservice
+	url = https://github.com/RuthNjeri/Sales_Tracking_Microservice
