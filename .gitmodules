@@ -1,0 +1,3 @@
+[submodule "MiniDemo"]
+	path = MiniDemo
+	url = https://github.com/RuthNjeri/MiniDemo
