@@ -3,7 +3,9 @@ Learning Microservices Resources
 
 # Projects 
 
-1. /Microservices/MiniDemo - Project folder linked within this repo
+## Projects linked within this repo
+1. /Microservices/MiniDemo - A tutorial
+2. /Microservices/Sales_Tracking_Microservice - From a Real Job Interview Assessment 
 
 
 # Reading  
