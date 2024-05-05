@@ -4,3 +4,7 @@
 [submodule "Sales_Tracking_Microservice"]
 	path = Sales_Tracking_Microservice
 	url = https://github.com/RuthNjeri/Sales_Tracking_Microservice
+
+[submodule "Ecommerce_Microservice"]
+	path = Ecommerce_Microservice
+	url = https://github.com/RuthNjeri/Ecommerce_Microservice.git
